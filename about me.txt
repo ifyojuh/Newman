@@ -1,5 +1,1 @@
-I'm a  solution-oriented Business analyst with over 4 years of experience in the banking sector, combining strategic
-relationship management with business process improvement and data-driven insights to improve efficiency and support
-product decisions. Proficient in SQL, Tableau, Excel and Data visualization tools to create accurate reports and deliver
-actionable insights to enhance business performance and recognized for improving efficiency, automating workflows, and
-presenting insights to senior leadership
+I'm an test engineer with knowledge of manual and automation testing, currently sharpening my coding and GitHub skills to build reliable and high quality software.
